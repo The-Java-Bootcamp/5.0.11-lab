@@ -3,7 +3,7 @@
 **Objective:**
 
 - Understand the concept and importance of Regular Expressions in Java development.
-- Learn how to implement Regular Expressions using Java's java.util.regex package.
+- Learn how to implement Regular Expressions using Java's `java.util.regex` package.
 - Explore practical applications of Regular Expressions in real-world Java projects.
 - Identify common pitfalls and best practices when working with Regular Expressions.
 - Gain hands-on experience with a complete Java example that demonstrates Regular Expressions.
